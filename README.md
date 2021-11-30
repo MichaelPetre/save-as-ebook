@@ -65,6 +65,8 @@ in Chrome:
 2. Scroll down
 3. Click on Keyboard shortcuts
 ```
+## Added in 1.4.3
+ - Added Japanese support (vertical layout, reversed page progression, baseline Japanese ebook CSS)
 
 ## Added in 1.4.2
  - Added MIME type to the generated .epub file
